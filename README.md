@@ -59,7 +59,7 @@ Arduino-based prototype that transmits vehicle speed via **LED light pulses** an
 ---
 
 ## 🔹 Demo
-🎥 Attached the demo video which is carried out in Tinkercad
+🎥 demo.mp4
 
 ---
 
